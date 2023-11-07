@@ -1,0 +1,6 @@
+rootProject.name = 'SpringCoupledSamples'
+include 'DependencyInjectionTipleri'
+include 'IoCSpringDependencyDevri'
+include 'LooselyCoupled'
+include 'LooselyCoupledSpringBean'
+
